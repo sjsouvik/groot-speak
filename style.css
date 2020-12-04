@@ -32,7 +32,6 @@ header {
 }
 
 header img {
-  /* max-width: 300px; */
   width: 100%;
   display: block;
 }
@@ -76,7 +75,7 @@ main p {
 #divOutput {
   border: 1px solid black;
   padding: 0.5rem;
-  height: 10vh;
+  height: 15vh;
   width: 100%;
   overflow: scroll;
   font-family: inherit;
@@ -89,9 +88,6 @@ footer {
   width: 100%;
   text-align: center;
   background-color: var(--primary-color);
-  /* this is to keep the footer at the end without any white space below the footer */
-  /* position: fixed;
-  bottom: 0; */
 }
 
 footer div {
