@@ -1,11 +1,12 @@
 ## groot-speak
-A translator to which will take English text from user as input and convert that into groot's language
+A translator which will take English text from user as input and convert that into groot's language
 
 ## Technology used
 - JavaScript
 - HTML5
 - CSS3
 - [funtranslations](https://funtranslations.com/api/#groot) API
+
 ## How to use?
  
 1. Go to [grootspeak](https://grootspeak.netlify.app/)
